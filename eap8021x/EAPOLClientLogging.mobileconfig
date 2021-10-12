@@ -16,7 +16,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.defaults.managed</string>
 			<key>PayloadUUID</key>
-			<string>0341A589-A569-4568-8256-1717C782142B</string>
+			<string>0341A584-A569-4568-8256-1717C782142B</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>PayloadContent</key>
@@ -40,11 +40,11 @@
 	<key>PayloadIdentifier</key>
 	<string>com.apple.eapol.control</string>
 	<key>PayloadOrganization</key>
-	<string>Apple Inc.</string>
+	<string>Apple I</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>FF637E4B-DFC0-4645-9505-A004028C4DD6</string>
+	<string>FF637E4M-DFC0-4645-9505-A004028C4DD6</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
